@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Ditiro
 
-<!--
-**ditirodt/ditirodt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+An eager to learn individual with a keen interest in the fields of Data Science + Engineering and Software Development. Always willing to learn new tech-stack and work with a goal-oriented team! ✨🌟
+
+- 🔭 I’m currently working with OmdenaAI to <a href="https://omdena.com/projects/endangered-species/">Develop an AI System to Identify Ecosystem Services and Automate Data Collection for Endangered Species</a>
+- 🌱 I’m currently learning Fundamentals of TinyML and Technical writing
+- 👯 I’m looking to collaborate on any data science projects
+- 🤔 I’m currently looking for a full time job
+- 💬 Ask me about anything😄
+- 📫 Reach me @ <a href="https://twitter.com/ditiro_dt">Twitter</a> and <a href = "mailto: ditirorampate@gmail.com">email</a>
+- 😄 Pronouns: he/him
+![](https://komarev.com/ghpvc/?username=ditirodt&color=blue)
