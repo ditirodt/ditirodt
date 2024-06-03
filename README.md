@@ -9,6 +9,6 @@ An eager to learn individual with a keen interest in the fields of Data Science 
 - 👯 I’m looking to collaborate on any data science projects
 - 🤔 I’m currently looking for a full time job
 - 💬 Ask me about anything😄
-- 📫 Reach me @ <a href="https://twitter.com/ditiro_dt">Twitter</a> and <a href = "mailto: ditirorampate@gmail.com">email</a>
+- 📫 Reach me @ <a href="https://twitter.com/ditiroo_dt">Twitter</a> and <a href = "mailto: ditirorampate@gmail.com">email</a>
 - 😄 Pronouns: he/him
 ![](https://komarev.com/ghpvc/?username=ditirodt&color=blue)
